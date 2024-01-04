@@ -1,0 +1,29 @@
+img{
+    width: 80px;
+    border: 10px double blue;
+    border-radius: 100px;
+}
+*{
+    margin: 10px;
+    padding: 10px;
+}
+.container{
+    border: 0px solid red;
+    border-radius: 20px;
+    width: 150px;
+}
+#rakib69{
+    color:red ;
+    background-color: aqua;
+}
+h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.rakibulhasan{
+    border: 2px dashed black;
+    font-size: larger;
+    margin: 0%;
+    text-align: justify;
+    text-decoration: dashed;
+    padding: 20px;
+}
